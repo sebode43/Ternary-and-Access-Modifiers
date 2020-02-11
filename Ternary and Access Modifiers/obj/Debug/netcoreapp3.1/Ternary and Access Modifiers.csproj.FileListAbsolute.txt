@@ -1,0 +1,14 @@
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\Ternary and Access Modifiers.exe
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\Ternary and Access Modifiers.deps.json
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\Ternary and Access Modifiers.runtimeconfig.json
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\Ternary and Access Modifiers.runtimeconfig.dev.json
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\Ternary and Access Modifiers.dll
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\Ternary and Access Modifiers.pdb
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\obj\Debug\netcoreapp3.1\Ternary and Access Modifiers.csprojAssemblyReference.cache
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\obj\Debug\netcoreapp3.1\Ternary and Access Modifiers.AssemblyInfoInputs.cache
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\obj\Debug\netcoreapp3.1\Ternary and Access Modifiers.AssemblyInfo.cs
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\obj\Debug\netcoreapp3.1\Ternary and Access Modifiers.dll
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\obj\Debug\netcoreapp3.1\Ternary and Access Modifiers.pdb
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\SalesLibrary.dll
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\bin\Debug\netcoreapp3.1\SalesLibrary.pdb
+C:\repos\Ternary and Access Modifiers\Ternary and Access Modifiers\obj\Debug\netcoreapp3.1\Ternary and Access Modifiers.csproj.CopyComplete
