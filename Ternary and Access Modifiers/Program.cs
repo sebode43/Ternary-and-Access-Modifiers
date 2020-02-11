@@ -11,8 +11,17 @@ namespace Ternary_and_Access_Modifiers {
             var cust2 = new Customer("Amazon");
             var cust3 = new Customer("Target");
             cust1.NationalAccount("yes");
+            Console.WriteLine(cust1);
+            Console.WriteLine(cust2);
+            Console.WriteLine(cust3);
 
-            var order1 = new Order { ID = 1, Amount = 1000, Customer = cust1 };
+            Console.WriteLine();
+            var order1 = new Order {Amount = 1000, Customer = cust1 };
+            var order2 = new Order {Amount = 25000, Customer = cust2 };
+            var order3 = new Order { Amount = 15000, Customer = cust3 };
+            Console.WriteLine(order1);
+            Console.WriteLine(order2);
+            Console.WriteLine(order3);
 
         }
 
